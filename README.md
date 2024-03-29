@@ -2,7 +2,6 @@
 <h3 align="center">A 4th year student at Birzeit University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwafayyad&label=Profile%20views&color=0e75b6&style=flat" alt="salwafayyad" /> </p>
-<img align ="right" alt="coding" width="400" src="https://github.com/SalwaFayyad/SalwaFayyad/assets/104863637/df560933-839d-476d-ab12-213bddf56f91.gif">
 
 - 📫 How to reach me **salwafayad2003@gmail.com**
 
