@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 👋 Hi, I’m Salwa Fayyad.<br><br>🎓A 4th year Computer Engineer Student @ Birzeit University.<br>
-<br> 📫 How to reach me **salwafayad2003@gmail.com** <br>
+<br> 📫 How to reach me **salwafayad.19@gmail.com** <br>
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/salwa-fayyad-a1981720b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salwa-fayyad" height="30" width="40" /></a>
