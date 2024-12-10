@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Salwa Fayyad</h1>
-<h3 align="center">A 4th year student at Birzeit University.</h3>
+<h3 align="center">A 5th year student at Birzeit University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salwafayyad&label=Profile%20views&color=0e75b6&style=flat" alt="salwafayyad" /> </p>
 
 # 💫 About Me:
-👋 Hi, I’m Salwa Fayyad.<br><br>🎓A 4th year Computer Engineer Student @ Birzeit University.<br>
+👋 Hi, I’m Salwa Fayyad.<br><br>🎓A 5th year Computer Engineer Student @ Birzeit University.<br>
 <br> 📫 How to reach me **salwafayad.19@gmail.com** <br>
 
 ## 🌐 Socials:
